@@ -8,3 +8,18 @@
     margin: 0;
     box-sizing: inherit;
 }
+body {
+    font-family: 'Sixtyfour Convergence', sans-serif;
+}
+.header, .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+.main-content {
+    padding: 40px;
+    text-align: center;
+    min-height: 50vh;
+}
